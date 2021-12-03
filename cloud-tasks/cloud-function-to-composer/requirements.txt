@@ -1,0 +1,5 @@
+#airflow
+apache-airflow[gcp]==1.10.12
+
+#cloud-function
+google-cloud-tasks
